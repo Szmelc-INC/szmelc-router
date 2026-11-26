@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/control"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/core"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/ledger"
+	"github.com/Szmelc-INC/szmelc-router/internal/control"
+	"github.com/Szmelc-INC/szmelc-router/internal/core"
+	"github.com/Szmelc-INC/szmelc-router/internal/ledger"
 )
 
 // Limiter is a client-side quota budget consulted before every upstream

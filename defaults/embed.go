@@ -3,7 +3,7 @@
 //
 // Rebuild with different defaults:
 //
-//	go build -ldflags "-X github.com/CYBERSZP0NT/szmelc-router/defaults.CustomProvidersYAML=…"
+//	go build -ldflags "-X github.com/Szmelc-INC/szmelc-router/defaults.CustomProvidersYAML=…"
 //
 // …or simply replace the .yaml files before running `make build`.
 package defaults

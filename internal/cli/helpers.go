@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/live"
-	"github.com/CYBERSZP0NT/szmelc-router/pkg/router"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/live"
+	"github.com/Szmelc-INC/szmelc-router/pkg/router"
 )
 
 // buildRouter constructs a *router.Router from the loaded config.

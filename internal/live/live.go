@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/agentic"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/appdir"
+	"github.com/Szmelc-INC/szmelc-router/internal/agentic"
+	"github.com/Szmelc-INC/szmelc-router/internal/appdir"
 )
 
 // Defaults for Options.

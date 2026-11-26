@@ -7,10 +7,10 @@ import (
 	"sort"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/defaults"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/appdir"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/core"
+	"github.com/Szmelc-INC/szmelc-router/defaults"
+	"github.com/Szmelc-INC/szmelc-router/internal/appdir"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/core"
 	"gopkg.in/yaml.v3"
 )
 

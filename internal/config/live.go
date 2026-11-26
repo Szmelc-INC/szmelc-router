@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/agentic"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/live"
+	"github.com/Szmelc-INC/szmelc-router/internal/agentic"
+	"github.com/Szmelc-INC/szmelc-router/internal/live"
 )
 
 // LiveConfig configures FreeLLMAPI live (internal/live): with a working

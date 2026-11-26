@@ -9,9 +9,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/agentic"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/live"
+	"github.com/Szmelc-INC/szmelc-router/internal/agentic"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/live"
 )
 
 var liveCmd = &cobra.Command{

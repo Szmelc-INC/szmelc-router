@@ -30,7 +30,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/CYBERSZP0NT/szmelc-router/pkg/pluginhost"
+	"github.com/Szmelc-INC/szmelc-router/pkg/pluginhost"
 )
 
 // ---------------------------------------------------------------------------

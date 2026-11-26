@@ -9,9 +9,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/journal"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/ledger"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/journal"
+	"github.com/Szmelc-INC/szmelc-router/internal/ledger"
 )
 
 var statsOptsVar struct {

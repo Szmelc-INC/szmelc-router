@@ -17,11 +17,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/CYBERSZP0NT/szmelc-router/defaults"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/agentic"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/appdir"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/control"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/live"
+	"github.com/Szmelc-INC/szmelc-router/defaults"
+	"github.com/Szmelc-INC/szmelc-router/internal/agentic"
+	"github.com/Szmelc-INC/szmelc-router/internal/appdir"
+	"github.com/Szmelc-INC/szmelc-router/internal/control"
+	"github.com/Szmelc-INC/szmelc-router/internal/live"
 	"gopkg.in/yaml.v3"
 )
 

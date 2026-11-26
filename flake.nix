@@ -49,7 +49,7 @@
 
           meta = with pkgs.lib; {
             description = "OpenAI-compatible router over free LLM tiers, keyless endpoints, Ollama and sidecars, with an agentic task router and FreeLLMAPI live routing";
-            homepage = "https://github.com/CYBERSZP0NT/szmelc-router";
+            homepage = "https://github.com/Szmelc-INC/szmelc-router";
             license = licenses.mit;
             mainProgram = "szmelc-router";
             platforms = platforms.unix;

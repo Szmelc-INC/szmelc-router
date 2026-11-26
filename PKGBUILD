@@ -4,7 +4,7 @@ pkgver=r0
 pkgrel=1
 pkgdesc="One static Go binary in front of all your free LLM capacity: OpenAI-compatible router with an agentic task router, TUI and FreeLLMAPI live routing"
 arch=('x86_64' 'aarch64' 'armv7h')
-url="https://github.com/CYBERSZP0NT/szmelc-router"
+url="https://github.com/Szmelc-INC/szmelc-router"
 license=('MIT')
 depends=('glibc')
 makedepends=('git' 'go>=2:1.27.1')

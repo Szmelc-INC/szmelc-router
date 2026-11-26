@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/pkg/router"
+	"github.com/Szmelc-INC/szmelc-router/pkg/router"
 )
 
 func TestPkgRouterBasic(t *testing.T) {

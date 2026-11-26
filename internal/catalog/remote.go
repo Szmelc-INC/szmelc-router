@@ -15,7 +15,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/core"
+	"github.com/Szmelc-INC/szmelc-router/internal/core"
 )
 
 // RemoteSource is one HTTP catalog feed. Adapters supply Parse; the base

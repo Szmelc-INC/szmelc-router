@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/pkg/router"
+	"github.com/Szmelc-INC/szmelc-router/pkg/router"
 )
 
 // fakeUpstream answers with the requested model name, except models listed

@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/core"
-	"github.com/CYBERSZP0NT/szmelc-router/pkg/router"
+	"github.com/Szmelc-INC/szmelc-router/internal/core"
+	"github.com/Szmelc-INC/szmelc-router/pkg/router"
 )
 
 // ---------------------------------------------------------------------------

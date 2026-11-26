@@ -207,7 +207,7 @@ ids `free`/`auto`.
 ## Go (embed the core, no server)
 
 ```go
-import "github.com/CYBERSZP0NT/szmelc-router/pkg/router"
+import "github.com/Szmelc-INC/szmelc-router/pkg/router"
 
 r, _ := router.New(router.Config{
     Providers: []router.ProviderConfig{
