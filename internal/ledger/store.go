@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/journal"
+	"github.com/Szmelc-INC/szmelc-router/internal/journal"
 )
 
 // Sink receives events.

@@ -1,4 +1,4 @@
-module github.com/CYBERSZP0NT/szmelc-router
+module github.com/Szmelc-INC/szmelc-router
 
 go 1.27.1
 

@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/agentic"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/agentic"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
 )
 
 // defaultSpec is the embedded spec pinned to Jako Tako ("just enough"):

@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
 )
 
 var notesCmd = &cobra.Command{

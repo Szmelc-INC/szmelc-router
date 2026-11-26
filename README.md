@@ -1,7 +1,7 @@
 # szmelc-router
 
-[![CI](https://github.com/CYBERSZP0NT/szmelc-router/actions/workflows/ci.yml/badge.svg)](https://github.com/CYBERSZP0NT/szmelc-router/actions/workflows/ci.yml)
-![Go](https://img.shields.io/github/go-mod/go-version/CYBERSZP0NT/szmelc-router)
+[![CI](https://github.com/Szmelc-INC/szmelc-router/actions/workflows/ci.yml/badge.svg)](https://github.com/Szmelc-INC/szmelc-router/actions/workflows/ci.yml)
+![Go](https://img.shields.io/github/go-mod/go-version/Szmelc-INC/szmelc-router)
 ![OpenAI-compatible](https://img.shields.io/badge/API-OpenAI--compatible-412991)
 ![Task router](https://img.shields.io/badge/routing-agentic%20task%20router-2ea44f)
 ![TUI](https://img.shields.io/badge/TUI-interactive-A78BFA)
@@ -37,11 +37,11 @@ Open WebUI, LibreChat, scripts) at it.
 ```bash
 # 1) get the binary (pick one)
 make install                                   # go install
-#   or: go install github.com/CYBERSZP0NT/szmelc-router/cmd/szmelc-router@latest
+#   or: go install github.com/Szmelc-INC/szmelc-router/cmd/szmelc-router@latest
 #   or: docker compose -f docker/docker-compose.yml up --build
 #   or: download a static binary from a release tag (dist/ layout)
 #   or: makepkg -si                            # Arch (PKGBUILD: binary, zsh/bash/fish completions, docs)
-#   or: nix run github:CYBERSZP0NT/szmelc-router   # Nix flake (also: nix build, nix develop)
+#   or: nix run github:Szmelc-INC/szmelc-router   # Nix flake (also: nix build, nix develop)
 
 # 2) (optional) put your free-tier keys somewhere — all optional
 cp .env.example .env                           # fill in the ones you have

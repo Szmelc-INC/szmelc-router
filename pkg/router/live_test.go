@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/CYBERSZP0NT/szmelc-router/pkg/router"
+	"github.com/Szmelc-INC/szmelc-router/pkg/router"
 )
 
 func TestModelLiveIsAgentLive(t *testing.T) {

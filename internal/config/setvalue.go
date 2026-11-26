@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/appdir"
+	"github.com/Szmelc-INC/szmelc-router/internal/appdir"
 )
 
 // SetUserValue sets one scalar at keys (e.g. ["agentic", "mode"]) in the

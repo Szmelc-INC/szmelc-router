@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/agentic"
+	"github.com/Szmelc-INC/szmelc-router/internal/agentic"
 )
 
 func TestLiveModeAliases(t *testing.T) {

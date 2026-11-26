@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/config"
-	"github.com/CYBERSZP0NT/szmelc-router/internal/core"
+	"github.com/Szmelc-INC/szmelc-router/internal/config"
+	"github.com/Szmelc-INC/szmelc-router/internal/core"
 )
 
 // Provider is one OpenAI-compatible upstream, configured by its config.Provider entry.

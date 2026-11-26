@@ -15,7 +15,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/CYBERSZP0NT/szmelc-router/internal/ledger"
+	"github.com/Szmelc-INC/szmelc-router/internal/ledger"
 )
 
 var histOpts struct {
